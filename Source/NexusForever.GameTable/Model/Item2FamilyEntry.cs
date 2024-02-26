@@ -1,4 +1,4 @@
-using NexusForever.GameTable.Static { get; set; }
+using NexusForever.GameTable.Static;
 
 namespace NexusForever.GameTable.Model
 {

@@ -1,5 +1,5 @@
-using NexusForever.Game.Static.Entity { get; set; }
-using NexusForever.GameTable.Static { get; set; }
+using NexusForever.Game.Static.Entity;
+using NexusForever.GameTable.Static;
 
 namespace NexusForever.GameTable.Model
 {
