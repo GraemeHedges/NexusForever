@@ -1,6 +1,6 @@
 ﻿namespace NexusForever.GameTable
 {
-    [AttributeUsage(AttributeTargets.Field)]
+    [AttributeUsage(AttributeTargets.Property)]
     public class GameTableFieldArrayAttribute : Attribute
     {
         public uint Length { get; }
